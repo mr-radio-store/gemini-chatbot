@@ -1,0 +1,11 @@
+Requirement 
+pip install streamlit google-generativeai pillow
+API Key
+AIzaSyCPjbLBC3p_3jgeKmdSU2LqzVM9xzu0218
+
+
+RUN 
+Step 1
+streamlit run math_chatbot.py
+
+webpage command prompt appear
