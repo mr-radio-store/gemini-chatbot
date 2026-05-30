@@ -4,7 +4,7 @@ from google.genai import types
 import PIL.Image
 
 # --- 1. API Configuration ---
-API_KEY = "AIzaSyCPjbLBC3p_3jgeKmdSU2LqzVM9xzu0218"
+API_KEY = "XXXX"
 client = genai.Client(api_key=API_KEY)
 
 # --- 2. Specialist System Instruction ---
